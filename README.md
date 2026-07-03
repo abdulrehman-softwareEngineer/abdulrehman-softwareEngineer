@@ -48,7 +48,7 @@ Building scalable, secure and modern web applications using Microsoft's technolo
 
 🌱 Currently Learning
 
-- ASP.NET Core 9
+- ASP.NET Core 8
 - Angular 20
 - Clean Architecture
 - Design Patterns
