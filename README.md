@@ -74,9 +74,6 @@ Building scalable, secure and modern web applications using Microsoft's technolo
 
 **abdulrehmanvu709@gmail.com**
 
-🌐 Portfolio
-
-https://hassan-ali-portfolio.loveable.app/
 
 📄 Resume
 
