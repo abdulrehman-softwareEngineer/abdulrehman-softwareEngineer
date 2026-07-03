@@ -1,40 +1,159 @@
 <h1 align="center">Hi 👋, I'm Abdulrehman Fiaz</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybmhyMWdhNWpsajc5ZnZnZG44YmVtbHNvZXN0cTg3c2FobDVybzd3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">
+Full-Stack Software Engineer | ASP.NET Core | Angular | SQL Server | C#
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman-softwareengineer&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman-softwareengineer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrehman-softwareengineer" alt="abdulrehman-softwareengineer" /></a> </p>
-
-- 🔭 I’m currently working on Karma Software Solution [E-File Workforce Payroll](https://efileworkforcepayroll.com/)
-
-- 🌱 I’m currently learning **ASP.NET Core And Angular**
-
-- 👯 I’m looking to collaborate on **Full-Stack Web Development**
-
-- 🤝 I’m looking for help with **Building Scalable Web Applications using ASP.NET Core and SQL Server**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abdulrehman-softwareEngineer](https://github.com/abdulrehman-softwareEngineer)
-
-- 📝 I regularly write articles on [LinkedIn about C#, ASP.NET Core, Web Development, and Software Engineering.](LinkedIn about C#, ASP.NET Core, Web Development, and Software Engineering.)
-
-- 💬 Ask me about **C#, ASP.NET Core MVC, Web API, Entity Framework Core, SQL Server, HTML, CSS, Bootstrap, and Git.**
-
-- 📫 How to reach me **abdulrehmanvu709@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o49hXYIP-oGTzlXH72t9nU4dVShChg1V/view?usp=sharing](https://drive.google.com/file/d/1o49hXYIP-oGTzlXH72t9nU4dVShChg1V/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdulrehman-fiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrehman-fiaz" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications with modern Microsoft technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdulrehman-softwareengineer&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/abdulrehman-softwareengineer?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/abdulrehman-softwareengineer?affiliations=OWNER&style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman-softwareengineer&show_icons=true&locale=en&layout=compact" alt="abdulrehman-softwareengineer" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrehman-softwareengineer&show_icons=true&locale=en" alt="abdulrehman-softwareengineer" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman-softwareengineer&" alt="abdulrehman-softwareengineer" /></p>
+- 💼 Software Engineer at **Karma Software Solution**
+- 🔭 Working on **E-File Workforce Payroll**
+- 🌱 Currently learning **ASP.NET Core 9, Angular 20, Clean Architecture**
+- 💬 Ask me about
+
+  - ASP.NET Core MVC
+  - ASP.NET Web API
+  - C#
+  - Entity Framework Core
+  - SQL Server
+  - Angular
+  - LINQ
+  - Git & GitHub
+
+- 👯 Open to collaborate on **Full-Stack Web Development Projects**
+
+- 📫 Email
+
+  **abdulrehmanvu709@gmail.com**
+
+- 🌐 Portfolio
+
+  https://hassan-ali-portfolio.loveable.app/
+
+- 📄 Resume
+
+  https://drive.google.com/file/d/1o49hXYIP-oGTzlXH72t9nU4dVShChg1V/view
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,js,ts" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+</p>
+
+---
+
+## 🌟 Current Project
+
+### E-File Workforce Payroll
+
+✔ Payroll Management
+
+✔ Employee Management
+
+✔ Attendance Tracking
+
+✔ Leave Management
+
+✔ Reporting System
+
+Built using:
+
+- ASP.NET Core
+- Angular
+- SQL Server
+- Entity Framework Core
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrehman-softwareengineer&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman-softwareengineer&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman-softwareengineer&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman-softwareengineer&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdulrehman-softwareengineer&theme=onedark&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/abdulrehman-fiaz">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:abdulrehmanvu709@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/abdulrehman-softwareengineer">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> "Code is not just written to work—it is written to be understood, maintained, and improved."
